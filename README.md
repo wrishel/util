@@ -11,5 +11,9 @@ Performs the backup function to save scanned TEVS images that on an external dri
 
 Files are not copied if they already exist and have the same modified date and size.
 
+### dead
+
+Ignore these files. Someday I will get up the courage to deleting them.
+
 
 
