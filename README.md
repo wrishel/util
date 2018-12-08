@@ -11,7 +11,7 @@ Performs the backup function to save scanned TEVS images that on an external dri
 
 Files are not copied if they already exist and have the same modified date and size.
 
-### p1_p2_by_pct.pu
+### p1_p2_by_pct.py
 
 Process the output from VOPS to tabulate the page 1 and page 2 ballots by precinct ID. 
 
